@@ -1,5 +1,5 @@
 # pong-  
-fun first year uni project  
+fun first year uni project showcasing OOP  
   
 Visual Studio 2022  
 .NET Framework 4.8  
