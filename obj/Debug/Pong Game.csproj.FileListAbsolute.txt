@@ -1,0 +1,14 @@
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\bin\Debug\Pong Game.exe.config
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\bin\Debug\Pong Game.exe
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\bin\Debug\Pong Game.pdb
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong Game.csproj.AssemblyReference.cache
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong_Game._menuScreen.resources
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong_Game._gameScreen1.resources
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong_Game.Properties.Resources.resources
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong Game.csproj.GenerateResource.cache
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong Game.csproj.CoreCompileInputs.cache
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong Game.exe
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong Game.pdb
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong_Game._gameScreen2.resources
+C:\Users\hansl\OneDrive\Desktop\COMPX102\Pong Game\obj\Debug\Pong_Game._pauseMenu.resources
